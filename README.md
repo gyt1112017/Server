@@ -3,7 +3,7 @@
 
 <h1>Technical Guide for Web & GIS app development project </h1>
 <p style="font-family:calibri;font-size:150%;"> 
-          This project consists of 3 components; the Server, question-app and the Quiz-app. The  three repositories together allow to create a location-based quiz. The project is also supported by data from postgreSQL/PGAdmin4 - which stores the data created/used in this project.</p>
+This project consists of 3 components; the Server, question-app and the Quiz-app. The  three repositories together allow to create a location-based quiz. The project is also supported by data from postgreSQL/PGAdmin4 - which stores the data created/used in this project.</p>
           <p style="font-family:calibri;font-size:150%;"> 
             The following instruction is to make shure the app work well. </p>
           
